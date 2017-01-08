@@ -20,4 +20,4 @@
 
 
 ### 项目地址：
-https://github.com/ensky001/shopDemo
+https://github.com/zhikangXuBlock/shopDemo
