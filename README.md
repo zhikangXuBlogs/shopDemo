@@ -20,4 +20,4 @@
 
 
 ### 项目地址：
-https://github.com/zhikangXuBlock/shopDemo
+https://github.com/zhikangXuBlogs/shopDemo
